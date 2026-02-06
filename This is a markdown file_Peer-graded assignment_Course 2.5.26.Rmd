@@ -1,0 +1,12 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+---
+title: "HelloWorld.md"
+author: "SamTheMan"
+date: "2026-02-05"
+output: pdf_document
+
+## This is a markdown file
